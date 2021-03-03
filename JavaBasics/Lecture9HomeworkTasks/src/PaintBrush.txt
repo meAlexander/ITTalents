@@ -1,0 +1,16 @@
+1.method paint brush
+2.method params - matrix(char[][] matrix),
+		  coordinates(int x, int y)
+3.char[][] matrix = {
+		{'b',' ',' ',' ',' ',' '},
+		{'b','b',' ',' ',' ',' '},
+		{' ','b','b',' ',' ','b'},
+		{' ',' ','b','b',' ','b'},
+		{' ',' ',' ',' ','b','b'},
+		{' ',' ',' ',' ',' ',' ',}
+		};
+4.if x out of free zone
+	- matrix[x][y] == 'b'
+5.stop "paint" 'r' from x 
+   if matrix[row][col] == 'x'
+   if matrix[row][col] == 'b'
