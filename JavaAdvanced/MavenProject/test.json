@@ -1,0 +1,22 @@
+[
+  {
+    "client": {
+      "name": "Ivan",
+      "age": 38,
+      "child": {
+        "name": "Pesho",
+        "age": 15
+      }
+    }
+  },
+  {
+    "client": {
+      "name": "Todor",
+      "age": 48,
+      "child": {
+        "name": "Petko",
+        "age": 25
+      }
+    }
+  }
+]

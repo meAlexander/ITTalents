@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Shop 2",
+    "products": [
+      {
+        "ORANGE": 9,
+        "APPLE": 14,
+        "BANANA": 15
+      },
+      {
+        "EGGPLANT": 14,
+        "POTATO": 15,
+        "CUCUMBER": 15
+      },
+      {
+        "BEEF": 15,
+        "CHICKEN": 15,
+        "PORK": 8
+      }
+    ]
+  },
+  {
+    "name": "Shop 2",
+    "products": [
+      {
+        "ORANGE": 8,
+        "APPLE": 14,
+        "BANANA": 9
+      },
+      {
+        "EGGPLANT": 10,
+        "POTATO": 15,
+        "CUCUMBER": 10
+      },
+      {
+        "BEEF": 15,
+        "CHICKEN": 15,
+        "PORK": 8
+      }
+    ]
+  },
+  {
+    "name": "Shop 2",
+    "products": [
+      {
+        "ORANGE": 8,
+        "APPLE": 14,
+        "BANANA": 9
+      },
+      {
+        "EGGPLANT": 10,
+        "POTATO": 14,
+        "CUCUMBER": 10
+      },
+      {
+        "BEEF": 15,
+        "CHICKEN": 11,
+        "PORK": 8
+      }
+    ]
+  },
+  {
+    "name": "Shop 2",
+    "products": [
+      {
+        "ORANGE": 19,
+        "APPLE": 11,
+        "BANANA": 9
+      },
+      {
+        "EGGPLANT": 10,
+        "POTATO": 10,
+        "CUCUMBER": 10
+      },
+      {
+        "BEEF": 15,
+        "CHICKEN": 11,
+        "PORK": 17
+      }
+    ]
+  },
+  {
+    "name": "Shop 2",
+    "products": [
+      {
+        "ORANGE": 19,
+        "APPLE": 11,
+        "BANANA": 6
+      },
+      {
+        "EGGPLANT": 10,
+        "POTATO": 7,
+        "CUCUMBER": 10
+      },
+      {
+        "BEEF": 15,
+        "CHICKEN": 8,
+        "PORK": 17
+      }
+    ]
+  },
+  {
+    "name": "Shop 2",
+    "products": [
+      {
+        "ORANGE": 15,
+        "APPLE": 9,
+        "BANANA": 6
+      },
+      {
+        "EGGPLANT": 18,
+        "POTATO": 7,
+        "CUCUMBER": 10
+      },
+      {
+        "BEEF": 15,
+        "CHICKEN": 16,
+        "PORK": 17
+      }
+    ]
+  },
+  {
+    "name": "Shop 2",
+    "products": [
+      {
+        "ORANGE": 15,
+        "APPLE": 9,
+        "BANANA": 14
+      },
+      {
+        "EGGPLANT": 18,
+        "POTATO": 7,
+        "CUCUMBER": 8
+      },
+      {
+        "BEEF": 15,
+        "CHICKEN": 16,
+        "PORK": 17
+      }
+    ]
+  },
+  {
+    "name": "Shop 2",
+    "products": [
+      {
+        "ORANGE": 15,
+        "APPLE": 9,
+        "BANANA": 11
+      },
+      {
+        "EGGPLANT": 14,
+        "POTATO": 19,
+        "CUCUMBER": 8
+      },
+      {
+        "BEEF": 13,
+        "CHICKEN": 16,
+        "PORK": 17
+      }
+    ]
+  },
+  {
+    "name": "Shop 2",
+    "products": [
+      {
+        "ORANGE": 15,
+        "APPLE": 8,
+        "BANANA": 9
+      },
+      {
+        "EGGPLANT": 14,
+        "POTATO": 19,
+        "CUCUMBER": 8
+      },
+      {
+        "BEEF": 13,
+        "CHICKEN": 12,
+        "PORK": 17
+      }
+    ]
+  },
+  {
+    "name": "Shop 2",
+    "products": [
+      {
+        "ORANGE": 14,
+        "APPLE": 18,
+        "BANANA": 9
+      },
+      {
+        "EGGPLANT": 13,
+        "POTATO": 19,
+        "CUCUMBER": 8
+      },
+      {
+        "BEEF": 13,
+        "CHICKEN": 10,
+        "PORK": 16
+      }
+    ]
+  },
+  {
+    "name": "Shop 2",
+    "products": [
+      {
+        "ORANGE": 14,
+        "APPLE": 18,
+        "BANANA": 6
+      },
+      {
+        "EGGPLANT": 13,
+        "POTATO": 18,
+        "CUCUMBER": 5
+      },
+      {
+        "BEEF": 13,
+        "CHICKEN": 10,
+        "PORK": 16
+      }
+    ]
+  },
+  {
+    "name": "Shop 2",
+    "products": [
+      {
+        "ORANGE": 14,
+        "APPLE": 18,
+        "BANANA": 19
+      },
+      {
+        "EGGPLANT": 11,
+        "POTATO": 18,
+        "CUCUMBER": 17
+      },
+      {
+        "BEEF": 9,
+        "CHICKEN": 10,
+        "PORK": 14
+      }
+    ]
+  },
+  {
+    "name": "Shop 2",
+    "products": [
+      {
+        "ORANGE": 14,
+        "APPLE": 18,
+        "BANANA": 19
+      },
+      {
+        "EGGPLANT": 11,
+        "POTATO": 18,
+        "CUCUMBER": 17
+      },
+      {
+        "BEEF": 9,
+        "CHICKEN": 19,
+        "PORK": 5
+      }
+    ]
+  },
+  {
+    "name": "Shop 2",
+    "products": [
+      {
+        "ORANGE": 14,
+        "APPLE": 15,
+        "BANANA": 19
+      },
+      {
+        "EGGPLANT": 8,
+        "POTATO": 18,
+        "CUCUMBER": 17
+      },
+      {
+        "BEEF": 9,
+        "CHICKEN": 19,
+        "PORK": 16
+      }
+    ]
+  },
+  {
+    "name": "Shop 2",
+    "products": [
+      {
+        "ORANGE": 12,
+        "APPLE": 15,
+        "BANANA": 17
+      },
+      {
+        "EGGPLANT": 8,
+        "POTATO": 14,
+        "CUCUMBER": 15
+      },
+      {
+        "BEEF": 6,
+        "CHICKEN": 19,
+        "PORK": 15
+      }
+    ]
+  },
+  {
+    "name": "Shop 2",
+    "products": [
+      {
+        "ORANGE": 15,
+        "APPLE": 15,
+        "BANANA": 15
+      },
+      {
+        "EGGPLANT": 15,
+        "POTATO": 11,
+        "CUCUMBER": 11
+      },
+      {
+        "BEEF": 11,
+        "CHICKEN": 11,
+        "PORK": 14
+      }
+    ]
+  },
+  {
+    "name": "Shop 2",
+    "products": [
+      {
+        "ORANGE": 11,
+        "APPLE": 11,
+        "BANANA": 12
+      },
+      {
+        "EGGPLANT": 15,
+        "POTATO": 8,
+        "CUCUMBER": 11
+      },
+      {
+        "BEEF": 11,
+        "CHICKEN": 11,
+        "PORK": 10
+      }
+    ]
+  },
+  {
+    "name": "Shop 2",
+    "products": [
+      {
+        "ORANGE": 11,
+        "APPLE": 11,
+        "BANANA": 12
+      },
+      {
+        "EGGPLANT": 15,
+        "POTATO": 8,
+        "CUCUMBER": 9
+      },
+      {
+        "BEEF": 7,
+        "CHICKEN": 9,
+        "PORK": 10
+      }
+    ]
+  },
+  {
+    "name": "Shop 2",
+    "products": [
+      {
+        "ORANGE": 11,
+        "APPLE": 11,
+        "BANANA": 12
+      },
+      {
+        "EGGPLANT": 15,
+        "POTATO": 5,
+        "CUCUMBER": 18
+      },
+      {
+        "BEEF": 5,
+        "CHICKEN": 9,
+        "PORK": 6
+      }
+    ]
+  },
+  {
+    "name": "Shop 2",
+    "products": [
+      {
+        "ORANGE": 11,
+        "APPLE": 10,
+        "BANANA": 12
+      },
+      {
+        "EGGPLANT": 15,
+        "POTATO": 5,
+        "CUCUMBER": 18
+      },
+      {
+        "BEEF": 5,
+        "CHICKEN": 7,
+        "PORK": 5
+      }
+    ]
+  },
+  {
+    "name": "Shop 2",
+    "products": [
+      {
+        "ORANGE": 14,
+        "APPLE": 14,
+        "BANANA": 15
+      },
+      {
+        "EGGPLANT": 15,
+        "POTATO": 15,
+        "CUCUMBER": 13
+      },
+      {
+        "BEEF": 15,
+        "CHICKEN": 12,
+        "PORK": 13
+      }
+    ]
+  },
+  {
+    "name": "Shop 2",
+    "products": [
+      {
+        "ORANGE": 6,
+        "APPLE": 11,
+        "BANANA": 15
+      },
+      {
+        "EGGPLANT": 13,
+        "POTATO": 8,
+        "CUCUMBER": 13
+      },
+      {
+        "BEEF": 15,
+        "CHICKEN": 12,
+        "PORK": 13
+      }
+    ]
+  },
+  {
+    "name": "Shop 2",
+    "products": [
+      {
+        "ORANGE": 6,
+        "APPLE": 11,
+        "BANANA": 15
+      },
+      {
+        "EGGPLANT": 13,
+        "POTATO": 8,
+        "CUCUMBER": 9
+      },
+      {
+        "BEEF": 13,
+        "CHICKEN": 10,
+        "PORK": 13
+      }
+    ]
+  },
+  {
+    "name": "Shop 2",
+    "products": [
+      {
+        "ORANGE": 6,
+        "APPLE": 8,
+        "BANANA": 12
+      },
+      {
+        "EGGPLANT": 9,
+        "POTATO": 8,
+        "CUCUMBER": 8
+      },
+      {
+        "BEEF": 13,
+        "CHICKEN": 10,
+        "PORK": 10
+      }
+    ]
+  }
+]
